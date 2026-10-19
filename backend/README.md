@@ -1,3 +1,3 @@
-# Backend (placeholder)
+# 后端目录（预留）
 
-Reserved for future implementation of the AI grading backend.
+本目录用于后续实现后端服务与真实大模型批改接口，当前阶段暂不开发。
